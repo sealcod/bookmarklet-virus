@@ -1,0 +1,1 @@
+javascript:(function()%7Blet anwser %3D prompt('are you sure you want to run this%3F im not responsible for any damage to your computer. (y%2Fn)')%0Aif (anwser %3D%3D%3D 'y') %7B%0A    alert("you are gonna crash %3A)")%0A    for (let i %3D 0%3B i < 99999999999999999999999%3B i%2B%2B) %7B%0A    location%3D'google.com'%0A    %7D%0A%7D%7D)()%3B
